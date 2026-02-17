@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jonesboroplumbingco.com/sitemap.xml
